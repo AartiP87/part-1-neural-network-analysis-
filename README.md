@@ -3,6 +3,12 @@
 ## Overview
 This project builds and analyzes a feed-forward neural network to predict **customer churn** — whether a customer is likely to leave a service. It covers the full machine learning pipeline from data exploration to hyperparameter tuning.
 
+## Dataset Link
+
+Use the relevant Part 4 reference files from the shared folder:
+
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 ## Dataset
 - **File:** `customer_churn_nn.csv`
 - **Rows:** 2,000 customers
